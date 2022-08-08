@@ -10,7 +10,7 @@ Hello, I am a 2nd year computer engineering student at Çukurova University. I d
 
 * 🌍  I'm based in Adana
 * ✉️  You can contact me at [hikmetcanoyke@outlook.com](mailto:hikmetcanoyke@outlook.com)
-* 🧠  I'm working on deep learning.
+* 🧠  I'm working on react js.
 * 🤝  I'm open to collaborating on insteresting projects.
 
 <a href="https://www.twitter.com/canoyke" target="_blank" rel="noreferrer"><img
