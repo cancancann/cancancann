@@ -2,7 +2,7 @@
 <h3 align="center">Hello, I am a 2nd year computer engineering student at Çukurova University. I develop myself day by day in the field of python artificial intelligence, data science and image processing and I continue to improve.</h3>
 
 
-- 🌱 I’m currently learning **react js and redux**
+- 🌱 I’m currently learning **react js and typescript**
 
 - 📫 How to reach me **hikmetcanoyke@outlook.com**
 
