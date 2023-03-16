@@ -2,7 +2,7 @@
 <h3 align="center">Hello, I am a 3th year computer engineering student at Çukurova University. I develop myself day by day in the field of React Js and I continue to improve.</h3>
 
 
-- 🌱 I’m currently learning **react js and JavaSpringBoot**
+- 🌱 I’m currently learning **react native and JavaSpringBoot**
 
 - 📫 How to reach me **hikmetcanoyke@outlook.com**
 
