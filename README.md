@@ -19,7 +19,7 @@
 <a href="http://www.github.com/cancancann"><img src="https://github-readme-stats.vercel.app/api?username=cancancann&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="cancancann's GitHub stats" /></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cancancann&show_icons=true&locale=en&layout=compact" alt="cancancann" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cancancann&show_icons=true&locale=en&layout=compact" alt="cancancann" /> </p>
 
 
 
