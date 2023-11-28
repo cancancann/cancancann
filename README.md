@@ -2,7 +2,7 @@
 <h3 align="center">Hello, I am a 4th year computer engineering student at Çukurova University. I develop myself day by day in the field of ReactNative , React Js and NextJs. I continue to improve.</h3>
 
 
-- 🌱 I’m currently learning **TypeScript**  .
+- 🌱 I’m currently learning **TypeScript** and **Java Spring**  .
 - I’m mainly interested in Fronted development.
 
 - 📫 How to reach me **hikmetcanoyke@outlook.com**
