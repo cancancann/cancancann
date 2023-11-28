@@ -6,6 +6,7 @@
 - I’m mainly interested in Fronted development.
 
 - 📫 How to reach me **hikmetcanoyke@outlook.com**
+- My Website is **https://cancancann.github.io/hikmetcanoyke.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  <a href="https://www.github.com/cancancann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/hikmet-can-öyke-48699a195/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
