@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **TypeScript** and **Java Spring**  .
 - I’m mainly interested in Fronted development.
 
-- 📫 How to reach me **hikmetcanoyke@outlook.com**
+- 📫 How to reach me **hikmetcandev@gmail.com**
 - My Website is **https://cancancann.github.io/hikmetcanoyke.github.io/**
 
 <h3 align="left">Connect with me:</h3>
