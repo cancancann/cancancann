@@ -6,7 +6,7 @@
 - I’m mainly interested in Fronted development ,Backend development and Mobile Development..
 
 - 📫 How to reach me **hikmetcandev@gmail.com**
-- My 2nd email account **hikmetcandeveloper@gmail.com**
+- If you want to get in contact My 2nd email account **hikmetcandeveloper@gmail.com**
 - My Website is **https://cancancann.github.io/hikmetcanoyke.github.io/**
 
 <h3 align="left">Connect with me:</h3>
