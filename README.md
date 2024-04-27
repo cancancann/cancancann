@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **TypeScript** and **Java Spring Boot**.
-- I’m mainly interested in Fronted development ,Backend development and Mobile Development..
+- I’m mainly interested in Fronted development ,Backend development and Mobile Development...
 
 - 📫 How to reach me **hikmetcandev@gmail.com**
 - If you want to get in contact My 2nd email account **hikmetcandeveloper@gmail.com**
