@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hikmet Can</h1>
+<h1 align="center">Hi 👋, I'm Hikmet Can.</h1>
 <h3 align="center">I am a 4th year computer engineering student at Çukurova University. I develop myself day by day in the field of who is interested in Fronted, Mobile and Back-end development. I continue to improve.</h3>
 
 
