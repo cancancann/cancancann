@@ -2,6 +2,9 @@
 <h3 align="center"> I develop myself day by day in the field of who is interested in Fronted, Mobile and Back-end development. I continue to improve.</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cancancann&label=Profile%20views&color=0e75b6&style=flat" alt="cancancann" /> </p>
+
+
 - 🌱 I’m currently learning **TypeScript** and **Java Spring Boot**.
 - I’m mainly interested in Fronted,Backend and Mobile Development.
 
